@@ -2,11 +2,40 @@
 `Honor Biology | Youssef Nagah`
 Official Website/Application for Mr. Youssef Nagah
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a7bee3c3-21bf-41b1-9145-612af446b1b6/deploy-status)](https://app.netlify.com/sites/dr-youssef-nagah/deploys)
+Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a7bee3c3-21bf-41b1-9145-612af446b1b6/deploy-status)](https://app.netlify.com/sites/dr-youssef-nagah/deploys)
+
+<br>
 
 ---
 
-### Building from Source Code (Used Techs / Services)
+<br>
+
+# Beta LMS
+
+### Student Side
+This LMS platform is a Desktop application _(with a Mobile version under development)_ designed to enhance remote learning. Key features include:
+
+- **Streaming Recorded Lectures**: Online video streaming for pre-recorded lectures & offline availability for students with internet issues.
+
+- **Live Sessions**: Interactive real-time lectures.
+- **Lecture Notes**: Secure PDF uploads.
+- **Content Security**: Prevents downloading, recording, or screenshotting of recorded/live lectures and lecture notes (PDFs).
+- **Lecture Prerequisites**: Restricts access to lectures until prerequisites are completed.
+- **Protection against Account Sharing**: Only one device per student to prevent account sharing.
+- **Quizzes and Exams** _(under development)_: Auto-graded (MCQs, True/False, One-word Complete-blank) and manually graded (Open-ended) question types.
+- **Assignments** _(under development)_: Supports the same question types as quizzes for comprehensive assessment.
+
+### Admin Side
+
+- **High-level Admin Panel**: High-level admin control for instructors and teaching assistants.
+
+<br>
+
+---
+
+<br>
+
+### Used Techs / Services
 
 #### **Desktop Client**
 - [![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat-square)](https://www.electronjs.org/) [![electron-builder](https://img.shields.io/badge/-electron%20builder-000000?logo=electronbuilder&logoColor=white&style=flat-square)](https://www.electron.build/)

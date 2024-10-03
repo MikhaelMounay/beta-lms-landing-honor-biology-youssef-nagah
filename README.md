@@ -1,6 +1,6 @@
 # Mr. Youssef Nagah
 `Honor Biology | Youssef Nagah`
-Official Website/Application for Mr. Youssef Nagah
+Official Website & Application for Mr. Youssef Nagah
 
 Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a7bee3c3-21bf-41b1-9145-612af446b1b6/deploy-status)](https://app.netlify.com/sites/dr-youssef-nagah/deploys)
 
@@ -12,7 +12,7 @@ Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a7be
 
 # Beta LMS
 
-### Student Side
+### Students Side
 This LMS platform is a Desktop application _(with a Mobile version under development)_ designed to enhance remote learning. Key features include:
 
 - **Streaming Recorded Lectures**: Online video streaming for pre-recorded lectures & offline availability for students with internet issues.
@@ -25,9 +25,12 @@ This LMS platform is a Desktop application _(with a Mobile version under develop
 - **Quizzes and Exams** _(under development)_: Auto-graded (MCQs, True/False, One-word Complete-blank) and manually graded (Open-ended) question types.
 - **Assignments** _(under development)_: Supports the same question types as quizzes for comprehensive assessment.
 
-### Admin Side
+### Instructors Side
 
-- **High-level Admin Panel**: High-level admin control for instructors and teaching assistants.
+- **Admin Panel**: High-level admin control for instructors and teaching assistants.
+
+- **Birdeye Analytics View**: Quick analytics about your students and content to help you keep improving.
+- **Purchase-Package Oriented**: Group your learning items (Lectures, Assignments, Quizzes, Exams) into purchase packages and send Purchase Codes as needed.
 
 <br>
 
@@ -55,5 +58,6 @@ This LMS platform is a Desktop application _(with a Mobile version under develop
 - [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat-square)](https://go.dev/) [![GoFiber](https://img.shields.io/badge/-GoFiber-4285F4?logo=GoFiber&logoColor=white&style=flat-square)](https://gofiber.io/) [![GORM](https://img.shields.io/badge/-GORM-38b6ff?logo=GORM&logoColor=white&style=flat-square)](https://gorm.io/)
 - [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat-square)](https://www.postgresql.org/)
 - [![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white&style=flat-square)](https://aws.amazon.com/ec2/) [![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=flat-square)](https://aws.amazon.com/ec2/)
+
 
 

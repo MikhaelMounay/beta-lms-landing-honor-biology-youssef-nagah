@@ -1,6 +1,6 @@
 ## 0.8.6-alpha (2024-09-28)
 
-## Features
+### Features
 - **offline-availability**: enabled downloading encrypted lecture videos to disk and opening them through the app
 
 

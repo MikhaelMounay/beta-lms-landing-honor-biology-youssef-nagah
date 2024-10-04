@@ -2,6 +2,8 @@
 `Honor Biology | Youssef Nagah`
 Official Website & Application for Mr. Youssef Nagah
 
+> An instance of Beta LMS
+
 Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a7bee3c3-21bf-41b1-9145-612af446b1b6/deploy-status)](https://app.netlify.com/sites/dr-youssef-nagah/deploys)
 
 <br>
@@ -53,7 +55,7 @@ This LMS platform is a Desktop application _(with a Mobile version under develop
 
 *Currently*
 - [![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?logo=Firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://www.youtube.com/)
+- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=YouTube&logoColor=white&style=flat-square)](https://www.youtube.com/) [![Zoom](https://img.shields.io/badge/-Zoom-0B5CFF?logo=zoom&logoColor=white&style=flat-square)](https://www.zoom.com/)
 - [![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?logo=Dropbox&logoColor=white&style=flat-square)](https://www.dropbox.com/)
 
 *Switching to*

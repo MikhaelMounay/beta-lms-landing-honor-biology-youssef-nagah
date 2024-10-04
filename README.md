@@ -12,6 +12,8 @@ Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a7be
 
 # Beta LMS
 
+A secure LMS platform enabling online lectures with offline access, live sessions, protected PDF notes, and comprehensive assessments with strict content and account protection.
+
 ### Students Side
 This LMS platform is a Desktop application _(with a Mobile version under development)_ designed to enhance remote learning. Key features include:
 

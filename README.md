@@ -8,6 +8,11 @@ Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a7be
 
 <br>
 
+![beta-lms-bg](https://github.com/user-attachments/assets/4900a70b-419f-421b-bb71-03cd67c68708)
+
+
+<br>
+
 ---
 
 <br>
